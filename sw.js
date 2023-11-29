@@ -1,4 +1,4 @@
-/* const CACHE_NAME = 'nome-do-seu-cache';
+const CACHE_NAME = 'nome-do-seu-cache';
 const urlsToCache = [
   '/index.html',
   '/styles.css',
@@ -29,4 +29,3 @@ self.addEventListener('fetch', event => {
       })
   );
 });
- */
